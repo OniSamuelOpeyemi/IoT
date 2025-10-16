@@ -50,3 +50,6 @@ _Wokwi System Diagram_
 If the distance is below a set threshold (e.g., 10 cm), the LED turns ON, signaling “Tank Full.”
 
 Otherwise, the LED remains OFF.
+
+|-------------|--------------|
+|![wokwi1](./Screenshots/wokwi1.png)|![wokwi2](./Screenshots/wokwi2.png)
