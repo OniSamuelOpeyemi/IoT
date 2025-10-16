@@ -1,7 +1,7 @@
 # 💧 Smart Water Level Detection System using Arduino Uno #
 ----
-In many homes and small businesses across Lagos, water tanks **often overflow due to a lack of real-time monitoring.** This leads to water wastage, increased electricity costs from over-pumping, and unnecessary maintenance expenses. In most cases, there is no automatic indicator to alert homeowners when the tank is full or nearly empty. Manual supervision is unreliable, especially when power is intermittent or when people forget to switch off the pumping machine on time.
-----
+
+In many homes and small businesses across Lagos, water tanks **often overflow due to a lack of real-time monitoring**. This leads to water wastage, increased electricity costs from over-pumping, and unnecessary maintenance expenses. In most cases, there is no automatic indicator to alert homeowners when the tank is full or nearly empty. Manual supervision is unreliable, especially when power is intermittent or when people forget to switch off the pumping machine on time.
 The problem, therefore, is the absence of an **affordable**, **automated system** that can detect water levels and alert users before overflow occurs. This project aims to solve that issue using a simple yet effective microcontroller-based design.
 
 ----
